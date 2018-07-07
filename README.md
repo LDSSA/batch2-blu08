@@ -1,5 +1,7 @@
 # BLU08 - Modelling
 
+*NOTICE* since the exercise notebook is a bit heavier than normal to run this time around there's a chance that the bug with the portal that causes incorrect grades to show up when re-submitting has a small chance of surfacing again. Please keep an eye out for it and if you think it may be occurring again, drop in to the #dev-ops channel and let us know!
+
 ## What is in this BLU?
 
 This big learning unit continues the text classification specialization. Now that you know how to process text and extract meaningfull features, we will show you how to prepare these features so you can actually use them for your task, for example text classification.
